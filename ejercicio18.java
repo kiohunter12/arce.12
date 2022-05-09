@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 
-public class ejercicio6 {
+public class ejercicio18 {
         static Scanner lt=new Scanner(System.in); 
             public static void main(String[]arg){ 
             //DECLARAR VARIABLES  
