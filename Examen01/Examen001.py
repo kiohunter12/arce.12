@@ -28,4 +28,6 @@ def Examen001():
     else:
         mensaje=("Su nivel es 1, por ende no obtiene vacante")
     #Datos de salida
-    print(mensaje)
+        print(mensaje)
+Examen001()
+   
