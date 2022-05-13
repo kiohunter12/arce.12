@@ -1,4 +1,4 @@
-def Examen001():
+def Examen001NAM():
     #Definir variables
     exCon:float()
     e:float()
@@ -28,6 +28,6 @@ def Examen001():
     else:
         mensaje=("Su nivel es 1, por ende no obtiene vacante")
     #Datos de salida
-        print(mensaje)
-Examen001()
-   
+    print(mensaje)
+Examen001NAM()
+
