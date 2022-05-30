@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio6 {
-    public static void ejercicio46() {
+    public static void EjercicioNAM46() {
         //Definir variables
         int v;
         //Datos de entrada

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
     static Scanner lt=new Scanner(System.in);
-    public static void ejercicio41() {
+    public static void EjercicioNAM41() {
         //Definir variables
         double total=1500;
         //Proceso

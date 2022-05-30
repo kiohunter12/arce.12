@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio3 {
-    public static void ejercicio43() {
+    public static void EjercicioNAM43() {
         //Definir variables
         int conta0=0,contaMas=0,contaMenos=0, n,num;
         //Datos de entrada

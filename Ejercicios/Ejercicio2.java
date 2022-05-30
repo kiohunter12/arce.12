@@ -3,7 +3,7 @@ package Ejercicios;
 import java.util.Scanner;
 
 public class Ejercicio2 {
-    public static void ejercicio42() {
+    public static void EjercicioNAM42() {
         //Definir variables
         int n,tarjeta,hamburguesa;
         double total=0;
