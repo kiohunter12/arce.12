@@ -1,8 +1,10 @@
+package Ejercicios;
+
 import java.util.Scanner;
 
 public class Ejercicio1 {
     static Scanner lt=new Scanner(System.in);
-    public static void EjercicioNAM41() {
+    public static void ejercicio41() {
         //Definir variables
         double total=1500;
         //Proceso

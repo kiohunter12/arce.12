@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio4 {
-    public static void EjercicioNAM44() {
+    public static void ejercicio44() {
         //Definir Variables
         int cantfocoV=0, cantfocoB=0, cantfocoR=0;
         String colorF="";

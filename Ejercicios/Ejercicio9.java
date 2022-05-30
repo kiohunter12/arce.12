@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio9 {
-    public static void EjercicioNAM49() {
+    public static void ejercicio49() {
         //Definir datos
         int n,salones,edad,suma=0,total=0,alumnos=0;
         //Datos de entrada

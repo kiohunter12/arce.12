@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio7 {
-    public static void EjercicioNAM48() {
+    public static void ejercicio48() {
         //Definir variables
         int años;
         double saldo=0, interes=0, total=0, deposito=0;

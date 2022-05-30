@@ -1,7 +1,7 @@
 package Ejercicios;
 
 public class Ejercicio3 {
-    public static void EjercicioNAM43() {
+    public static void ejercicio43() {
         //Definir variables
         int conta0=0,contaMas=0,contaMenos=0, n,num;
         //Datos de entrada
@@ -22,5 +22,5 @@ public class Ejercicio3 {
         System.out.println("La cantidad de numeros mayor a 0 es: "+contaMas);
         System.out.println("La cantidad de numeros menor a 0 es: "+contaMenos);
     }
-    
+   
 }
